@@ -1,0 +1,11 @@
+package javalab111;
+
+public class Javalab111 {
+
+ 
+    public static void main(String[] args) {
+        System.out.println("Welcome to ");
+        System.out.println("Java Programming");
+    }
+    
+}
